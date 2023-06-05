@@ -1,6 +1,7 @@
 
 theme = "catppuccin_mocha"
-
+[keys.normal]
+g = { G = "goto_file_end"}
 [keys.insert]
 j = {k="normal_mode"}
 
